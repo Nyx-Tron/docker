@@ -1,6 +1,6 @@
 # Docker Desktop
 
-> **Open Source License**: "[windows 下玩转 Docker Desktop]([Window下玩转Docker Desktop_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV19z421Y7Nn/?spm_id_from=333.337.search-card.all.click&vd_source=91e9878676c7a5f3f24d1d4fb2cba597))"
+> **Open Source License**: [windows 下玩转 Docker Desktop]([Window下玩转Docker Desktop_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV19z421Y7Nn/?spm_id_from=333.337.search-card.all.click&vd_source=91e9878676c7a5f3f24d1d4fb2cba597))
 
 ![image-20250714140700102](./images/image-20250714140700102.png)
 
